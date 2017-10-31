@@ -16,7 +16,7 @@
       "git add"
     ]
   },
-  "homepage": "https://ramboxer.github.io/boxing-tutorial",
+  "homepage": "https://ramboxer.github.io",
   "scripts": {
     "analyze": "source-map-explorer build/static/js/main.*",
     "precommit": "lint-staged",
